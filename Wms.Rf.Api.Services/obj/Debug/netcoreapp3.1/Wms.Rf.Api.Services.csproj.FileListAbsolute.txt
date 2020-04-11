@@ -1,0 +1,13 @@
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Services.deps.json
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Services.dll
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Services.pdb
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Data.dll
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Models.dll
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Data.pdb
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Models.pdb
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Services.csprojAssemblyReference.cache
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Services.AssemblyInfoInputs.cache
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Services.AssemblyInfo.cs
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Services.csproj.CopyComplete
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Services.dll
+D:\KasimWorks\netcore\Wms.Rf.Api.Services\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Services.pdb

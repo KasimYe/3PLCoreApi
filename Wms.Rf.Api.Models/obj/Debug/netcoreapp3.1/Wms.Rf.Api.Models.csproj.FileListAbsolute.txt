@@ -1,0 +1,8 @@
+D:\KasimWorks\netcore\Wms.Rf.Api.Models\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Models.deps.json
+D:\KasimWorks\netcore\Wms.Rf.Api.Models\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Models.dll
+D:\KasimWorks\netcore\Wms.Rf.Api.Models\bin\Debug\netcoreapp3.1\Wms.Rf.Api.Models.pdb
+D:\KasimWorks\netcore\Wms.Rf.Api.Models\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Models.csprojAssemblyReference.cache
+D:\KasimWorks\netcore\Wms.Rf.Api.Models\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Models.AssemblyInfoInputs.cache
+D:\KasimWorks\netcore\Wms.Rf.Api.Models\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Models.AssemblyInfo.cs
+D:\KasimWorks\netcore\Wms.Rf.Api.Models\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Models.dll
+D:\KasimWorks\netcore\Wms.Rf.Api.Models\obj\Debug\netcoreapp3.1\Wms.Rf.Api.Models.pdb
